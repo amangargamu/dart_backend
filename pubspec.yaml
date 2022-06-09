@@ -1,0 +1,9 @@
+name: shelf_router_demo
+description: A simple command-line application.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  mongo_dart: ^0.7.4+1
+  shelf_router: ^1.1.1
+dev_dependencies: 
+  lints: ^1.0.1
